@@ -13,7 +13,7 @@ public class Exercisce8 {
 		Nombre = scanner.nextLine();
 		System.out.println("Cúantos años tienes");
 		Edad = scanner.nextLine();
-		System.out.println("Hola " + Nombre + ", tienes" + Edad + "años, ¡QUÉ MAYOR ERES!" );
+		System.out.println("Hola " + Nombre + ", tienes" + Edad + " años, ¡que mayor eres!" );
 	
 		
 		
