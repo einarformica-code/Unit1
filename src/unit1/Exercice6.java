@@ -27,6 +27,7 @@ public class Exercice6 {
 				int mult = n1 * n2;	
 				//Definimos división
 				int div = n1/n2;
+				//Imprimos los resultados de las variables acompañadas de texto que las explicam
 				System.out.println("La suma de n1 y n2 equivale a :" + suma) ;
 				System.out.println("La resta a n1 de n2 es igual a " + resta);
 				System.out.println("La multiplicación de n1 y n2 equivale a"  +  mult);
