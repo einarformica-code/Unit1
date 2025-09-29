@@ -24,7 +24,7 @@ public class Ejercicio5 {
 		System.out.println(horas + "horas");
 		System.out.println(minutos + "minutos");
 		System.out.println(segundo + "segundos");
-		System.out.println(121%60);
+		
 
 
 	}
