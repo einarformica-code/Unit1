@@ -1,11 +1,12 @@
-package unit1;
+package parte1;
 
 import java.util.Scanner;
 
 public class Exercisce10 {
 
 	public static void main(String[] args) {
-		//creamos scanner
+		
+	//creamos scanner
 		Scanner scanner = new Scanner(System.in);
 		//Introducimos numero, que será un número entero.
 		int numero; 
